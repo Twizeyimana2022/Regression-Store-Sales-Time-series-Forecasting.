@@ -29,8 +29,8 @@ For example, the holiday Independencia de Guayaquil was transferred from 2012-10
 Additional Notes
 •	Wages in the public sector are paid every two weeks on the 15th and on the last day of the month. Supermarket sales could be affected by this.
 •	A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
-Data Preparation
-Hypothesis & Questions
+<sub>Data Preparation
+<sub>Hypothesis & Questions
 The questions below are to be answered. Do note that, you are free to draw more hypothesis from the data.
 1.	Is the train dataset complete (has all the required dates)?
 2.	Which dates have the lowest and highest sales for each year?
@@ -43,19 +43,19 @@ Your task is to build a model that more accurately predicts the unit sales for t
 Important
 •	Document process from data cleaning, analysis, assumptions, model building etc. Marks will be awarded for documentation.
 Rubric
-Documentation:
-•	Excellent: Having documentation on the project ie data cleaning, analysis, hypothesis and model.
-•	Good: Gave a summary on some of the processes
-•	Fair: Gave a bullet list of the processes with short sentences
-•	Poor: No documentation
-Hypothesis Analysis &Visualization:
-•	Excellent: Validated the hypothesis and answered all questions listed earlier with appropriate charts. Used relevant diagrams and charts to show analysis/metrics.
-•	Good: Validated at least 4 hypothesis and answered some of the questions listed with appropriate charts. Used relevant diagrams but might need some improvement and.
-•	Fair: Lack of clarity on whether the hypothesis was true.
-•	Poor: Not answered any of the hypothesis
-Model Building:
-•	Excellent: Model has an RMSLE of 0.2
-•	Good: Model has RMSLE of 0.3
-•	Fair: Model has RMSLE of 0.4
-•	Poor: Model has RMSLE of 0.4 +
+<sub>Documentation:
+<sub>•	Excellent: Having documentation on the project ie data cleaning, analysis, hypothesis and model.
+<sub>•	Good: Gave a summary on some of the processes
+<sub>•	Fair: Gave a bullet list of the processes with short sentences
+<sub>•	Poor: No documentation
+<sub>Hypothesis Analysis &Visualization:
+<sub>•	Excellent: Validated the hypothesis and answered all questions listed earlier with appropriate charts. Used relevant diagrams and charts to show analysis/metrics.
+<sub>•	Good: Validated at least 4 hypothesis and answered some of the questions listed with appropriate charts. Used relevant diagrams but might need some improvement and.
+<sub>•	Fair: Lack of clarity on whether the hypothesis was true.
+<sub>•	Poor: Not answered any of the hypothesis
+<sub>**Model Building:
+<sub>•	Excellent: Model has an RMSLE of 0.2
+<sub>•	Good: Model has RMSLE of 0.3
+<sub>•	Fair: Model has RMSLE of 0.4
+<sub>•	Poor: Model has RMSLE of 0.4 +
 
